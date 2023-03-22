@@ -1,0 +1,32 @@
+.top_left{
+    display: flex;
+    align-items: center;
+    gap:30px;
+    width: 60%;
+}
+.menu_top{
+    display: flex;
+    gap:30px;
+}
+.banner_top{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid gainsboro;
+}
+.top_right{
+    gap:20px;
+    display: flex;
+    align-items: center;
+}
+.top_title{
+    display: flex;
+}
+.pr{
+    margin-top: -10px;
+}
+.center_top_left{
+    width: 70%;
+    display: flex;
+    height: 20px;
+    align-items: center;
+}
